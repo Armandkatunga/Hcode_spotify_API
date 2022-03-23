@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Armandkatunga/Hcode_spotify_API#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^5.11.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
